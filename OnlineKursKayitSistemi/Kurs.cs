@@ -49,7 +49,7 @@ namespace KursKayitSistemi
             KursAdi = "Kurs İsmi";
             Egitmen = "Eğitmen İsmi";
             IzlenmeOranı = 0;
-            Fiyat = 250;
+            Fiyat = 0;
         }
 
         public Kurs(string kursAdi, string egitmen, int izlenmeOrani, double fiyat)
